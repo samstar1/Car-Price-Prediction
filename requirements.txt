@@ -1,0 +1,77 @@
+argon2-cffi==20.1.0
+async-generator==1.10
+attrs==21.2.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bleach==4.0.0
+certifi==2021.5.30
+cffi==1.14.6
+click==8.0.1
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+cycler==0.10.0
+debugpy==1.4.1
+decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
+defusedxml==0.7.1
+entrypoints==0.3
+Flask==2.0.1
+ipykernel==6.0.3
+ipython==7.26.0
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.6.3
+itsdangerous==2.0.1
+jedi==0.18.0
+Jinja2==3.0.1
+joblib==1.0.1
+jsonschema==3.2.0
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
+jupyter-console==6.4.0
+jupyter-core @ file:///C:/ci/jupyter_core_1612213356021/work
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.0
+kiwisolver==1.3.1
+MarkupSafe==2.0.1
+matplotlib==3.4.2
+matplotlib-inline==0.1.2
+mistune==0.8.4
+nbclient==0.5.3
+nbconvert==6.1.0
+nbformat==5.1.3
+nest-asyncio==1.5.1
+notebook==6.4.0
+numpy==1.21.1
+packaging==21.0
+pandas==1.3.1
+pandocfilters==1.4.3
+parso @ file:///tmp/build/80754af9/parso_1617223946239/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==8.3.1
+prometheus-client==0.11.0
+prompt-toolkit==3.0.19
+pycparser==2.20
+Pygments @ file:///tmp/build/80754af9/pygments_1621606182707/work
+pyparsing==2.4.7
+pyrsistent==0.18.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.1
+pywin32==301
+pywinpty==1.1.3
+pyzmq==22.2.1
+qtconsole==5.1.1
+QtPy==1.9.0
+scikit-learn==0.24.2
+scipy==1.7.1
+seaborn==0.11.1
+Send2Trash==1.7.1
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sklearn==0.0
+terminado==0.10.1
+testpath==0.5.0
+threadpoolctl==2.2.0
+tornado @ file:///C:/ci/tornado_1606942392901/work
+traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+Werkzeug==2.0.1
+widgetsnbextension==3.5.1
+wincertstore==0.2
+xgboost==1.4.2
